@@ -1,6 +1,6 @@
 # Agnostic Open Source Trading Advisor (AOSTA)
 
-Open Source Trading Advisor created by Paul Lin for educational purposes.
+Open Source Trading Advisor created for educational purposes.
 
 ## Installation
 
@@ -56,4 +56,4 @@ Please make sure to add/update tests as appropriate.
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/#)
 
-License TLDR: You are allowed to read, write, and share, but not permitted to make a copy for private business customers, i.e. the products you create must be open to public. You are allowed to fork, modify, and build your own automated trader on top of AOSTA. 
+Legal Statement: You are allowed to read, write, and share, but not permitted to make a copy for private business customers, i.e. the products you create must be open to public. You are allowed to fork, modify, and build your own automated trader on top of AOSTA for personal use, including for profit purposes. All intellectual rights for the original software belongs jointly to Paul Lin and The School of Moderne Society, incorporated through Stripe in Delaware, July 2022. 
