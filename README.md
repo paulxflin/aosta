@@ -56,4 +56,15 @@ Please make sure to add/update tests as appropriate.
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/#)
 
-Legal Statement: You are allowed to read, write, and share, but not permitted to make a copy for private business customers, i.e. the products you create must be open to public. You are allowed to fork, modify, and build your own automated trader on top of AOSTA for personal use, including for profit purposes. All intellectual rights for the original software belongs jointly to Paul Lin and The School of Moderne Society, incorporated through Stripe in Delaware, July 2022. 
+### You May:
+- Read, write, modify, extend, share, template, and personal use (including for profit)
+
+### You May NOT:
+- Use for Private Business
+
+### Ownership:
+- [Paul Lin](github.com/paulxflin)
+- [Moderne](linkedin.com/company/moderne-soc/)
+
+### Legal Statement
+You may use AOSTA exclusively for personal use, in which it's fully permissive. However, you may not use AOSTA for profit within a private business environment. All intellectual rights for AOSTA belongs jointly to [Paul Lin](github.com/paulxflin) and [The School of Moderne Society](linkedin.com/company/moderne-soc/), incorporated through Stripe in Delaware, on July 2022. 
