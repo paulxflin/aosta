@@ -51,7 +51,9 @@ Advisor()
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to add/update tests as appropriate.
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/#)
+
+License TLDR: You are allowed to read, write, and share, but not permitted to make a copy for private business customers, i.e. the products you create must be open to public. You are allowed to fork, modify, and build your own automated trader on top of AOSTA. 
