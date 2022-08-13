@@ -8,7 +8,7 @@ Issue in bash/powershell/terminal:
 
 ```bash
 git clone [url]
-cd trading-advisor
+cd aosta
 ```
 
 ## Usage
