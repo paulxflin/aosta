@@ -1,18 +1,19 @@
-# Trading-AI
+# Agnostic Open Source Trading Advisor (AOSTA)
 
-Trading-AI is a Python library for automated trading.
+An open source trading advisor created for educational purposes. 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Issue in bash/powershell/terminal:
 
 ```bash
-pip install foobar
+git clone [url]
+cd trading-advisor
 ```
 
 ## Usage
 
-Create your own config.py.
+Create your own config.py:
 
 ```python
 # config.py
