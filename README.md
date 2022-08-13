@@ -1,6 +1,6 @@
 # Agnostic Open Source Trading Advisor (AOSTA)
 
-Open Source Trading Advisor created for educational purposes.
+Open Source Trading Advisor created for Educational Purposes and Permissive Personal Use.
 
 ## Installation
 
