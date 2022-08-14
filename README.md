@@ -63,8 +63,8 @@ Please make sure to add/update tests as appropriate.
 - Use for Private Business
 
 ### Ownership:
-- [Paul Lin](github.com/paulxflin)
-- [Moderne](linkedin.com/company/moderne-soc/)
+- [Paul Lin](https://www.github.com/paulxflin)
+- [Moderne](https://www.linkedin.com/company/moderne-soc/)
 
 ### Legal Statement
-You may use AOSTA exclusively for personal use, in which it's fully permissive. However, you may not use AOSTA for profit within a private business environment. All intellectual rights for AOSTA belongs jointly to [Paul Lin](github.com/paulxflin) and [The School of Moderne Society](linkedin.com/company/moderne-soc/), incorporated through Stripe in Delaware, on July 2022. 
+You may use AOSTA exclusively for personal use, in which it's fully permissive. However, you may not use AOSTA for profit within a private business environment. All intellectual rights for AOSTA belongs jointly to [Paul Lin](https://www.github.com/paulxflin) and [The School of Moderne Society](https://www.linkedin.com/company/moderne-soc/), incorporated through Stripe in Delaware, on July 2022. 
